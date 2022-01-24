@@ -1,0 +1,2 @@
+Fitur versi 1:
+- versi 1 bisa melakukan CRUD
