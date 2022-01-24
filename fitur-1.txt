@@ -1,0 +1,3 @@
+Fitur 1:
+- bisa melakukan CRUD
+- bisa diakses secara online
